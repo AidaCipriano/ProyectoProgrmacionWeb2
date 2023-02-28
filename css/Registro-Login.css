@@ -1,0 +1,107 @@
+/*Barra de Navegacion*/
+ 
+.Pagina{
+    text-decoration:none;   
+}
+
+.Titulo
+{
+    color: #ffffff;
+    text-decoration: none;
+    font-size:30px;
+    font-weight: bold;  
+}
+
+.Titulo:hover{
+    color: #f57600;
+    text-decoration: none; 
+}
+  
+.Navegador
+{
+    color: #ffffff;
+    text-decoration: none;
+    font-size:215x;
+    font-weight: bold;
+}
+
+.Navegador:hover{
+    color: #f57600;
+    text-decoration: none;
+}
+
+
+ .register-box {
+  border: 2px solid rgba(39, 112, 63, 0.651);
+  color: #000000;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 7% ;
+  margin-bottom: 7% ;
+  background-color: #ffffff;
+  border-radius: 5%;
+}
+
+.formulario{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.Titulo-Registro{
+  margin-top: 7% ;
+  margin-bottom: 7% ;
+}
+
+.boton_Registro{
+  background-color: #fd3c3c; 
+  border: none;
+  color: white;
+  padding: 5% 20%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.boton_Registro:hover{
+  background-color: #c72f2f; 
+}
+
+.espacio_Boton{
+  margin-top: 7% ;
+  margin-bottom: 7% ;
+}
+
+
+.form-signin {
+ 
+  background-color: #ffffff;
+  max-width: 30%;
+  background-color: transparent;
+}
+
+  
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: -1px;
+}
+
+.Fondo{
+  background-color: #a4b892;
+}
+
+
+.Suelo{
+  border: #417217;
+  height: 150px;
+  width: 100%;
+  background-color: #587e37;
+  border: none;
+}
+
